@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1664765690 source:c:\users\nico\documents\utn\programacion 2\modelo primer parcial\practicandoprimerparcial\main.cpp
+	<string.h>
+	<iostream>
+	"parcialm1.h"
+
+1664561046 c:\users\nico\documents\utn\programacion 2\modelo primer parcial\practicandoprimerparcial\parcialm1.h
+	<string.h>
+	<iostream>
+
